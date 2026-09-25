@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "author": "Vikasa Yattinahalli",
-  "editor": "wokwi",
+  "author": "ESP32 LED Blink Project",
+  "editor": "YOUR_EDITOR",
   "parts": [
     { "type": "board-esp32-devkit-c-v4", "id": "esp", "top": 9.6, "left": -91.16, "attrs": {} },
     {
